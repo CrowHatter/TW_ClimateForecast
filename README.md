@@ -18,9 +18,10 @@
 ## 專案流程
 
 ### 1. 資料前處理
-- 使用氣象資料開放平台之資料
+- 使用氣象資料開放平台與他人先前紀錄之資料
   - https://opendata.cwa.gov.tw/dataset/observation/O-A0001-001 (自動氣象站資料-無人自動站氣象資料)
   - https://opendata.cwa.gov.tw/dataset/observation/O-A0003-001 (現在天氣觀測報告-有人氣象站資料)
+  - https://github.com/Raingel/historical_weather (臺灣歷史氣象觀測資料庫)
 - 處理缺失值與異常值
 - 將非數值欄位轉換為數值型態
 - 進行 Z-score 正規化
@@ -72,3 +73,7 @@
 
 - 支援多變數輸入與多步預測
 - 整合氣象開放資料API，實現即時資料預測與展示
+
+---
+## 引用資料
+Ou, J.-H., Kuo, C.-H., Wu, Y.-F., Lin, G.-C., Lee, M.-H., Chen, R.-K., Chou, H.-P., Wu, H.-Y., Chu, S.-C., Lai, Q.-J., Tsai, Y.-C., Lin, C.-C., Kuo, C.-C., Liao, C.-T., Chen, Y.-N., Chu, Y.-W., Chen, C.-Y., 2023. Application-oriented deep learning model for early warning of rice blast in Taiwan. Ecological Informatics 73, 101950. https://doi.org/10.1016/j.ecoinf.2022.101950
