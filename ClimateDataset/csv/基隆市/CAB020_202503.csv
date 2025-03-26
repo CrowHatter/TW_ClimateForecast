@@ -1,0 +1,2 @@
+StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
+國一S006K,CAB020,2025-03-26T21:40:00+08:00,多雲,-99,-99.0,360.0,1.3,20.6,95,-99.0,-99.0

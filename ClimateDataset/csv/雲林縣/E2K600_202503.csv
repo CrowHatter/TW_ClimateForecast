@@ -1,0 +1,2 @@
+StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
+四湖植物園,E2K600,2025-03-26T21:40:00+08:00,晴,-99,-99.0,210.0,1.9,23.9,100,-99.0,-99.0

@@ -1,0 +1,2 @@
+StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
+頭櫃山,C2FB60,2025-03-26T21:40:00+08:00,晴,-99,-99.0,120.0,2.0,18.7,99,-99.0,-99.0

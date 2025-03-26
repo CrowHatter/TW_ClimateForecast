@@ -1,0 +1,2 @@
+StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
+國一N288K,CAN010,2025-03-26T21:40:00+08:00,晴,21-30,-99.0,210.0,3.0,23.7,96,-99.0,-99.0

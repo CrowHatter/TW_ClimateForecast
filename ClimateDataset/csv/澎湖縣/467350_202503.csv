@@ -1,0 +1,2 @@
+StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
+澎湖,467350,2025-03-26T21:40:00+08:00,多雲,>30,10.4,210.0,3.1,24.1,83,1007.4,0.0

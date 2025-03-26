@@ -1,0 +1,2 @@
+StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
+碧湖,C2M970,2025-03-26T21:40:00+08:00,晴,-99,-99.0,180.0,3.5,19.9,65,-99.0,-99.0

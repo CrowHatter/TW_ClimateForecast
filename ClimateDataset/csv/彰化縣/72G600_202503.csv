@@ -1,0 +1,2 @@
+StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
+臺中農改,72G600,2025-03-26T21:40:00+08:00,晴,-99,-99.0,160.0,0.8,24.0,98,-99.0,-99.0

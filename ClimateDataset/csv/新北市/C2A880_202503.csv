@@ -1,0 +1,2 @@
+StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
+福隆,C2A880,2025-03-26T21:40:00+08:00,陰,-99,-99.0,260.0,0.4,21.3,93,-99.0,-99.0

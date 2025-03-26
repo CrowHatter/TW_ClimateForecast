@@ -1,0 +1,2 @@
+StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
+西濱N066K,CAD100,2025-03-26T21:40:00+08:00,多雲有靄,7-10,-99.0,230.0,2.8,23.7,92,-99.0,-99.0

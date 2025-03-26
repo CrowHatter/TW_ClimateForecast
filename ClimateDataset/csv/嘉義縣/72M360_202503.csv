@@ -1,0 +1,2 @@
+StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
+義竹分場,72M360,2025-03-26T21:40:00+08:00,晴,-99,-99.0,200.0,1.6,23.3,89,-99.0,-99.0

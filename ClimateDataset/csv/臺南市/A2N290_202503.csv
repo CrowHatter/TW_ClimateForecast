@@ -1,0 +1,2 @@
+StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
+蘭花園區,A2N290,2025-03-26T21:40:00+08:00,晴,-99,-99.0,190.0,0.9,23.1,92,-99.0,-99.0

@@ -1,0 +1,2 @@
+StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
+中竹林,C2F9A0,2025-03-26T21:40:00+08:00,晴,-99,-99.0,270.0,0.4,21.1,97,-99.0,-99.0

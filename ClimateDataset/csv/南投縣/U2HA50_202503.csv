@@ -1,0 +1,2 @@
+StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
+臺大竹山,U2HA50,2025-03-26T21:40:00+08:00,晴,-99,-99.0,0.0,0.0,22.8,90,-99.0,-99.0

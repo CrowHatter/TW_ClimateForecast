@@ -1,0 +1,2 @@
+StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
+永康,467420,2025-03-26T21:40:00+08:00,晴,-99,10.5,200.0,2.4,25.5,79,1008.0,0.0

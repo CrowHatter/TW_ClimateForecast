@@ -1,0 +1,2 @@
+StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
+花蓮農改,72T250,2025-03-26T21:40:00+08:00,多雲,-99,-99.0,310.0,0.4,22.5,89,-99.0,-99.0

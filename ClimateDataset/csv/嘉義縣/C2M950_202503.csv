@@ -1,0 +1,2 @@
+StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
+太和,C2M950,2025-03-26T21:40:00+08:00,晴,-99,-99.0,200.0,4.5,18.9,66,-99.0,-99.0

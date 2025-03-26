@@ -1,0 +1,2 @@
+StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
+火燒寮,C2A650,2025-03-26T21:40:00+08:00,陰,-99,-99.0,190.0,0.3,18.4,96,-99.0,-99.0

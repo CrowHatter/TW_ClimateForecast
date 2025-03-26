@@ -1,0 +1,2 @@
+StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
+茶改場竹圍站,CAH030,2025-03-26T21:40:00+08:00,晴,-99,-99.0,230.0,1.5,21.8,97,-99.0,-99.0

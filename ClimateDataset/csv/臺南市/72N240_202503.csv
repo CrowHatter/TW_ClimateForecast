@@ -1,0 +1,2 @@
+StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
+七股研究中心,72N240,2025-03-26T21:40:00+08:00,多雲,-99,-99.0,190.0,3.5,25.4,84,-99.0,-99.0

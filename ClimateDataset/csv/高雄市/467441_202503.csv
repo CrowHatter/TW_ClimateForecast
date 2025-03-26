@@ -1,0 +1,2 @@
+StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
+高雄,467441,2025-03-26T21:40:00+08:00,晴,>30,11.1,250.0,1.1,24.7,86,1007.9,0.0
