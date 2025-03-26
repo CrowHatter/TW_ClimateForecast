@@ -17,11 +17,8 @@
 
 2. **執行下載**
 
-   - 手動下載：
-     ```bash
-     python GetDataset.py
-     ```
-
+   - 手動下載 `GetDataset.py`
+   - 建立虛擬環境`.venv`
    - 自動排程（Windows）使用 `GetDataset.bat` 搭配工作排程器。
 
 ---
