@@ -1,2 +1,2 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
-淡水,466900,2025-03-26T21:40:00+08:00,多雲有靄,7-10,9.5,310.0,0.9,22.7,94,1005.1,0.0
+淡水,466900,2025-03-26T23:00:00+08:00,多雲有靄,7-10,9.5,0.0,0.1,22.8,93,1005.1,0.0

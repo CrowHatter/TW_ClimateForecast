@@ -1,2 +1,2 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
-鳳山農試,G2P820,2025-03-26T21:40:00+08:00,晴,-99,-99.0,0.0,0.0,25.1,80,-99.0,-99.0
+鳳山農試,G2P820,2025-03-26T23:00:00+08:00,晴,-99,-99.0,60.0,0.3,23.8,88,-99.0,-99.0

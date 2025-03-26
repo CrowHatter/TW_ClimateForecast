@@ -1,2 +1,2 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
-國一S306K,CAN020,2025-03-26T21:40:00+08:00,晴,7-10,-99.0,200.0,3.0,24.3,85,-99.0,-99.0
+國一S306K,CAN020,2025-03-26T23:00:00+08:00,晴,7-10,-99.0,190.0,2.1,23.8,87,-99.0,-99.0

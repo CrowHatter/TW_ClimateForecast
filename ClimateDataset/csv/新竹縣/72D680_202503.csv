@@ -1,2 +1,2 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
-新埔工作站,72D680,2025-03-26T21:40:00+08:00,多雲,-99,-99.0,270.0,0.8,23.6,90,-99.0,-99.0
+新埔工作站,72D680,2025-03-26T23:00:00+08:00,陰,-99,-99.0,240.0,1.4,23.7,87,-99.0,-99.0

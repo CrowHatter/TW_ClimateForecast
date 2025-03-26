@@ -1,2 +1,2 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
-國三S140K,CAE080,2025-03-26T21:40:00+08:00,晴,7-10,-99.0,210.0,2.2,23.3,84,-99.0,-99.0
+國三S140K,CAE080,2025-03-26T23:00:00+08:00,陰,7-10,-99.0,210.0,2.1,23.5,83,-99.0,-99.0

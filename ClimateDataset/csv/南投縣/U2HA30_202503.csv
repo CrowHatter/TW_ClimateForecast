@@ -1,2 +1,2 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
-臺大和社,U2HA30,2025-03-26T21:40:00+08:00,多雲,-99,-99.0,0.0,0.0,19.2,76,-99.0,-99.0
+臺大和社,U2HA30,2025-03-26T23:00:00+08:00,多雲,-99,-99.0,0.0,0.0,17.2,84,-99.0,-99.0

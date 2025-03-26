@@ -1,2 +1,2 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
-五峰站,72D080,2025-03-26T21:40:00+08:00,多雲,-99,-99.0,120.0,1.2,20.2,36,-99.0,-99.0
+五峰站,72D080,2025-03-26T23:00:00+08:00,陰,-99,-99.0,130.0,0.8,19.4,36,-99.0,-99.0

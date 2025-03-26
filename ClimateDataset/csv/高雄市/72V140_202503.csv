@@ -1,2 +1,2 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
-旗南農改,72V140,2025-03-26T21:40:00+08:00,晴,-99,-99.0,120.0,0.7,22.7,90,-99.0,-99.0
+旗南農改,72V140,2025-03-26T23:00:00+08:00,晴,-99,-99.0,0.0,0.0,22.1,93,-99.0,-99.0

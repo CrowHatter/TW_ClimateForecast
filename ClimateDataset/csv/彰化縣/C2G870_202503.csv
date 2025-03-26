@@ -1,2 +1,2 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
-芳苑,C2G870,2025-03-26T21:40:00+08:00,晴,-99,-99.0,210.0,1.6,23.5,92,-99.0,-99.0
+芳苑,C2G870,2025-03-26T23:00:00+08:00,晴,-99,-99.0,220.0,2.0,23.5,93,-99.0,-99.0

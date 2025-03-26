@@ -1,2 +1,2 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
-鞍部,466910,2025-03-26T21:40:00+08:00,多雲,21-30,9.4,200.0,1.7,19.8,89,-99.0,0.0
+鞍部,466910,2025-03-26T23:00:00+08:00,多雲,21-30,9.4,140.0,3.4,21.0,82,-99.0,0.0

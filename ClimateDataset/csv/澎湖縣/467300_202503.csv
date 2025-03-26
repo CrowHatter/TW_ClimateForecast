@@ -1,2 +1,2 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
-東吉島,467300,2025-03-26T21:40:00+08:00,多雲,>30,9.3,230.0,4.9,24.1,88,1004.2,0.0
+東吉島,467300,2025-03-26T23:00:00+08:00,多雲,>30,9.3,220.0,5.3,23.9,88,1003.8,0.0

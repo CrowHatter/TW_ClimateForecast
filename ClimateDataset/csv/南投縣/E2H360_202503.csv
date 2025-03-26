@@ -1,2 +1,2 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
-蓮華池,E2H360,2025-03-26T21:40:00+08:00,晴,-99,-99.0,0.0,0.0,20.9,-99,-99.0,-99.0
+蓮華池,E2H360,2025-03-26T23:00:00+08:00,多雲,-99,-99.0,300.0,0.3,19.6,-99,-99.0,-99.0

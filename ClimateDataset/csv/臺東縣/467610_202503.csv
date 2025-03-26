@@ -1,2 +1,2 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
-成功,467610,2025-03-26T21:40:00+08:00,晴,21-30,10.0,260.0,3.4,24.0,90,1002.5,0.0
+成功,467610,2025-03-26T23:00:00+08:00,晴,21-30,10.0,300.0,0.9,23.9,90,1002.7,0.0

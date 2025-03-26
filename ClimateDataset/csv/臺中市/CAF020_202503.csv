@@ -1,2 +1,2 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
-國一S162K,CAF020,2025-03-26T21:40:00+08:00,晴,-99,-99.0,160.0,1.2,23.0,86,-99.0,-99.0
+國一S162K,CAF020,2025-03-26T23:00:00+08:00,陰,-99,-99.0,190.0,1.0,22.8,87,-99.0,-99.0

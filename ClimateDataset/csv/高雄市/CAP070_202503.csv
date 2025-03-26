@@ -1,2 +1,2 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
-高雄燈塔,CAP070,2025-03-26T21:40:00+08:00,晴,-99,-99.0,210.0,0.9,24.7,88,-99.0,-99.0
+高雄燈塔,CAP070,2025-03-26T23:00:00+08:00,晴,-99,-99.0,230.0,0.8,24.4,90,-99.0,-99.0

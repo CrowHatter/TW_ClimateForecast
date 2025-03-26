@@ -1,2 +1,2 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
-國三N303K,CAL080,2025-03-26T21:40:00+08:00,晴,7-10,-99.0,170.0,1.3,23.3,95,-99.0,-99.0
+國三N303K,CAL080,2025-03-26T23:00:00+08:00,晴,7-10,-99.0,110.0,1.5,22.5,97,-99.0,-99.0

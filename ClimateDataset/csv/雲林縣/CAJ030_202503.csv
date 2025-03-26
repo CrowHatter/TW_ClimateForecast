@@ -1,2 +1,2 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
-西濱N222K,CAJ030,2025-03-26T21:40:00+08:00,晴,16-20,-99.0,220.0,3.6,24.1,89,-99.0,-99.0
+西濱N222K,CAJ030,2025-03-26T23:00:00+08:00,晴,16-20,-99.0,230.0,4.1,24.2,88,-99.0,-99.0

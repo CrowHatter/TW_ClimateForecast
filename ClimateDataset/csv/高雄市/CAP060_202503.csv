@@ -1,2 +1,2 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
-國三S385K,CAP060,2025-03-26T21:40:00+08:00,晴,7-10,-99.0,300.0,0.6,23.0,85,-99.0,-99.0
+國三S385K,CAP060,2025-03-26T23:00:00+08:00,晴,7-10,-99.0,300.0,0.3,22.5,88,-99.0,-99.0

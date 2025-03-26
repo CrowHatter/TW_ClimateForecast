@@ -1,2 +1,2 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
-古坑(花卉中心),A2K570,2025-03-26T21:40:00+08:00,晴,-99,-99.0,120.0,0.8,21.6,95,-99.0,-99.0
+古坑(花卉中心),A2K570,2025-03-26T23:00:00+08:00,晴,-99,-99.0,200.0,1.0,21.7,96,-99.0,-99.0

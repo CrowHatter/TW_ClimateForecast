@@ -1,2 +1,2 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
-日月潭,467650,2025-03-26T21:40:00+08:00,多雲有靄,3-6,11.0,160.0,1.0,20.4,95,-99.0,0.0
+日月潭,467650,2025-03-26T23:00:00+08:00,多雲有靄,2.6,11.0,170.0,0.8,19.8,97,-99.0,0.0

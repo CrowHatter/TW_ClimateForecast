@@ -1,2 +1,2 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
-苗栗農改,K2E360,2025-03-26T21:40:00+08:00,晴,-99,-99.0,210.0,2.4,24.4,80,-99.0,-99.0
+苗栗農改,K2E360,2025-03-26T23:00:00+08:00,陰,-99,-99.0,190.0,4.4,23.9,82,-99.0,-99.0

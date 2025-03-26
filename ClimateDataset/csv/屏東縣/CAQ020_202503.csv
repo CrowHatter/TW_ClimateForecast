@@ -1,2 +1,2 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
-國三S415K,CAQ020,2025-03-26T21:40:00+08:00,晴,21-30,-99.0,80.0,1.0,24.8,87,-99.0,-99.0
+國三S415K,CAQ020,2025-03-26T23:00:00+08:00,晴,>30,-99.0,70.0,1.0,23.5,88,-99.0,-99.0

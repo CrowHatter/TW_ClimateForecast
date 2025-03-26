@@ -1,2 +1,2 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
-田頭村,C2G980,2025-03-26T21:40:00+08:00,晴,-99,-99.0,200.0,0.8,23.1,93,-99.0,-99.0
+田頭村,C2G980,2025-03-26T23:00:00+08:00,晴,-99,-99.0,190.0,1.2,23.2,92,-99.0,-99.0

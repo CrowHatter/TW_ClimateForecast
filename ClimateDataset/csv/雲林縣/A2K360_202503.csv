@@ -1,2 +1,2 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
-臺西水試,A2K360,2025-03-26T21:40:00+08:00,晴,-99,-99.0,230.0,1.7,24.3,92,-99.0,-99.0
+臺西水試,A2K360,2025-03-26T23:00:00+08:00,晴,-99,-99.0,230.0,1.4,24.3,91,-99.0,-99.0

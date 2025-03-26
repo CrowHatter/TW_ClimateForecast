@@ -1,2 +1,2 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
-國一高架N063K,CAC760,2025-03-26T21:40:00+08:00,多雲有靄,7-10,-99.0,250.0,3.4,22.8,95,-99.0,-99.0
+國一高架N063K,CAC760,2025-03-26T23:00:00+08:00,陰有靄,7-10,-99.0,260.0,2.4,23.0,95,-99.0,-99.0

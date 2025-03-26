@@ -1,2 +1,2 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
-關西工作站,C2D720,2025-03-26T21:40:00+08:00,多雲,-99,-99.0,0.0,0.2,21.8,93,-99.0,-99.0
+關西工作站,C2D720,2025-03-26T23:00:00+08:00,陰,-99,-99.0,0.0,0.0,21.8,94,-99.0,-99.0

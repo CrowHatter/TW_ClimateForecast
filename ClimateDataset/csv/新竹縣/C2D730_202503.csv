@@ -1,2 +1,2 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
-寶山農場,C2D730,2025-03-26T21:40:00+08:00,陰,-99,-99.0,0.0,0.1,22.0,96,-99.0,-99.0
+寶山農場,C2D730,2025-03-26T23:00:00+08:00,陰,-99,-99.0,130.0,0.4,22.0,97,-99.0,-99.0

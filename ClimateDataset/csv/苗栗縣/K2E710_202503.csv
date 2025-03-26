@@ -1,2 +1,2 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
-大湖分場,K2E710,2025-03-26T21:40:00+08:00,晴,-99,-99.0,160.0,2.1,22.0,86,-99.0,-99.0
+大湖分場,K2E710,2025-03-26T23:00:00+08:00,陰,-99,-99.0,170.0,3.2,21.8,88,-99.0,-99.0

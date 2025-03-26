@@ -1,2 +1,2 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
-布袋國中,CAL110,2025-03-26T21:40:00+08:00,晴,-99,-99.0,190.0,3.3,25.1,86,-99.0,-99.0
+布袋國中,CAL110,2025-03-26T23:00:00+08:00,晴,-99,-99.0,190.0,3.7,25.0,86,-99.0,-99.0

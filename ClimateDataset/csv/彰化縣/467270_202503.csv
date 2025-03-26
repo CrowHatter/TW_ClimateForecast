@@ -1,2 +1,2 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
-田中,467270,2025-03-26T21:40:00+08:00,晴,16-20,10.1,180.0,2.0,24.1,88,1003.6,0.0
+田中,467270,2025-03-26T23:00:00+08:00,晴,16-20,10.1,150.0,0.5,24.1,88,1003.4,0.0

@@ -1,2 +1,2 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
-崎峰國小,CAQ030,2025-03-26T21:40:00+08:00,晴,-99,-99.0,280.0,0.9,24.8,87,-99.0,-99.0
+崎峰國小,CAQ030,2025-03-26T23:00:00+08:00,晴,-99,-99.0,80.0,1.2,23.3,92,-99.0,-99.0

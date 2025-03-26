@@ -1,2 +1,2 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
-新屋,467050,2025-03-26T21:40:00+08:00,多雲,11-15,5.7,230.0,7.8,24.2,90,1004.3,0.0
+新屋,467050,2025-03-26T23:00:00+08:00,陰,11-15,5.7,230.0,6.8,24.3,90,1004.6,0.0

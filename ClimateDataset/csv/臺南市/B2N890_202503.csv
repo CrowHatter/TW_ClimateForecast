@@ -1,2 +1,2 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
-畜試所,B2N890,2025-03-26T21:40:00+08:00,晴,-99,-99.0,160.0,0.4,22.8,98,-99.0,-99.0
+畜試所,B2N890,2025-03-26T23:00:00+08:00,晴,-99,-99.0,170.0,0.5,22.2,97,-99.0,-99.0

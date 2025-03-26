@@ -1,2 +1,2 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
-西濱S189K,CAG080,2025-03-26T21:40:00+08:00,晴有靄,7-10,-99.0,200.0,3.4,23.5,92,-99.0,-99.0
+西濱S189K,CAG080,2025-03-26T23:00:00+08:00,晴有靄,7-10,-99.0,170.0,1.7,23.3,94,-99.0,-99.0

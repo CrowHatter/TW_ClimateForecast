@@ -1,2 +1,2 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
-水試所海水繁養殖中心,CAN130,2025-03-26T21:40:00+08:00,多雲,-99,-99.0,190.0,4.2,25.3,85,-99.0,-99.0
+水試所海水繁養殖中心,CAN130,2025-03-26T23:00:00+08:00,晴,-99,-99.0,180.0,4.0,25.0,87,-99.0,-99.0

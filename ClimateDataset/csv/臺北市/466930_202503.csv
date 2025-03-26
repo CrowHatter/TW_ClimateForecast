@@ -1,2 +1,2 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
-陽明山,466930,2025-03-26T21:40:00+08:00,多雲,-99,10.2,30.0,0.7,20.4,97,939.4,0.0
+陽明山,466930,2025-03-26T23:00:00+08:00,多雲,-99,10.2,20.0,1.1,20.7,95,939.6,0.0

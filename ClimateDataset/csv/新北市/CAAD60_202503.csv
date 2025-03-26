@@ -1,2 +1,2 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
-國五S005K,CAAD60,2025-03-26T21:40:00+08:00,多雲,7-10,-99.0,160.0,0.4,19.3,95,-99.0,-99.0
+國五S005K,CAAD60,2025-03-26T23:00:00+08:00,多雲,7-10,-99.0,170.0,0.6,19.0,96,-99.0,-99.0

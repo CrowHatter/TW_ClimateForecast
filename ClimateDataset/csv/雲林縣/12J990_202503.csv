@@ -1,2 +1,2 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
-口湖工作站,12J990,2025-03-26T21:40:00+08:00,晴,-99,-99.0,220.0,3.8,25.0,79,-99.0,-99.0
+口湖工作站,12J990,2025-03-26T23:00:00+08:00,晴,-99,-99.0,220.0,3.2,24.6,79,-99.0,-99.0

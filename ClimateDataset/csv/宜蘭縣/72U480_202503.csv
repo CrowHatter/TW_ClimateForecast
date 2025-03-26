@@ -1,2 +1,2 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
-蘭陽分場,72U480,2025-03-26T21:40:00+08:00,陰,-99,-99.0,210.0,0.7,23.3,83,-99.0,-99.0
+蘭陽分場,72U480,2025-03-26T23:00:00+08:00,陰,-99,-99.0,260.0,1.6,22.7,81,-99.0,-99.0
