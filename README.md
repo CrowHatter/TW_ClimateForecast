@@ -30,8 +30,6 @@
 
 成功下載的 XML 檔會存於：
 
-成功下載的 XML 檔會存於：
-
 ```text
 ClimateDataset/
 └── xml/
