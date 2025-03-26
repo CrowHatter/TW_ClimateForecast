@@ -1,2 +1,3 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
 國三N151K,CAE070,2025-03-26T23:00:00+08:00,陰,-99,-99.0,210.0,4.3,24.0,81,-99.0,-99.0
+國三N151K,CAE070,2025-03-27T00:00:00+08:00,多雲,-99,-99.0,190.0,2.5,23.8,82,-99.0,-99.0

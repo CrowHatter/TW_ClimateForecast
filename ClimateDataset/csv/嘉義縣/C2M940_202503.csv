@@ -1,2 +1,3 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
 日野賀,C2M940,2025-03-26T23:00:00+08:00,多雲,-99,-99.0,210.0,0.9,15.7,95,-99.0,-99.0
+日野賀,C2M940,2025-03-27T00:00:00+08:00,多雲,-99,-99.0,210.0,0.9,15.3,94,-99.0,-99.0

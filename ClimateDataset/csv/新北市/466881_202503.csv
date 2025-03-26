@@ -1,2 +1,3 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
 新北,466881,2025-03-26T23:00:00+08:00,多雲,11-15,10.7,80.0,1.1,20.4,93,1004.5,0.0
+新北,466881,2025-03-27T00:00:00+08:00,多雲,16-20,10.7,230.0,0.8,21.2,89,1004.4,0.0

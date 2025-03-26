@@ -1,2 +1,3 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
 國三N077K,CAD710,2025-03-26T23:00:00+08:00,陰,7-10,-99.0,60.0,0.5,22.2,96,-99.0,-99.0
+國三N077K,CAD710,2025-03-27T00:00:00+08:00,多雲有靄,7-10,-99.0,350.0,0.6,22.3,95,-99.0,-99.0

@@ -1,2 +1,3 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
 西濱S129K,CAE110,2025-03-26T23:00:00+08:00,陰,16-20,-99.0,190.0,6.8,24.3,87,-99.0,-99.0
+西濱S129K,CAE110,2025-03-27T00:00:00+08:00,多雲,16-20,-99.0,170.0,6.9,24.3,87,-99.0,-99.0

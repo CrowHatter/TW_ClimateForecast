@@ -1,2 +1,3 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
 合歡山,A0Z080,2025-03-26T23:00:00+08:00,陰,-99,-99.0,310.0,3.4,8.8,17,-99.0,-99.0
+合歡山,A0Z080,2025-03-27T00:00:00+08:00,陰,-99,-99.0,310.0,4.5,8.2,18,-99.0,-99.0

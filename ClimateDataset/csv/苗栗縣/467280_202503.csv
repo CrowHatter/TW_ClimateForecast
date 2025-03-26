@@ -1,2 +1,3 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
 後龍,467280,2025-03-26T23:00:00+08:00,陰有靄,-99,10.2,230.0,5.7,24.1,86,1002.8,0.0
+後龍,467280,2025-03-27T00:00:00+08:00,晴有靄,-99,10.2,240.0,6.8,24.1,86,1002.7,0.0

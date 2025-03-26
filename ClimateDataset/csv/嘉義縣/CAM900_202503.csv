@@ -1,2 +1,3 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
 國三S290K,CAM900,2025-03-26T23:00:00+08:00,晴,7-10,-99.0,150.0,0.8,22.8,93,-99.0,-99.0
+國三S290K,CAM900,2025-03-27T00:00:00+08:00,晴,7-10,-99.0,30.0,0.4,21.8,94,-99.0,-99.0

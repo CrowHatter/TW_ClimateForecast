@@ -1,2 +1,3 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
 玉山,467550,2025-03-26T23:00:00+08:00,多雲,-99,9.9,270.0,2.7,5.1,34,-99.0,0.0
+玉山,467550,2025-03-27T00:00:00+08:00,多雲,-99,9.9,250.0,5.9,4.6,33,-99.0,0.0

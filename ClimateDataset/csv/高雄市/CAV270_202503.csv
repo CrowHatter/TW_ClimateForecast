@@ -1,2 +1,3 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
 國一S336K,CAV270,2025-03-26T23:00:00+08:00,晴,16-20,-99.0,140.0,1.8,24.2,96,-99.0,-99.0
+國一S336K,CAV270,2025-03-27T00:00:00+08:00,晴,11-15,-99.0,110.0,2.1,23.3,98,-99.0,-99.0

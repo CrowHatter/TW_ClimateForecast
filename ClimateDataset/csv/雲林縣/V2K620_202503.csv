@@ -1,2 +1,3 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
 麥寮合作社,V2K620,2025-03-26T23:00:00+08:00,晴,-99,-99.0,230.0,2.5,23.7,84,-99.0,-99.0
+麥寮合作社,V2K620,2025-03-27T00:00:00+08:00,晴,-99,-99.0,240.0,2.4,23.5,84,-99.0,-99.0

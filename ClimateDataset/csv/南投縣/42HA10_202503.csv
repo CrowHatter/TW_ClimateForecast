@@ -1,2 +1,3 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
 萬大發電廠,42HA10,2025-03-26T23:00:00+08:00,多雲,-99,-99.0,350.0,0.5,16.4,83,-99.0,-99.0
+萬大發電廠,42HA10,2025-03-27T00:00:00+08:00,多雲,-99,-99.0,320.0,0.7,15.4,82,-99.0,-99.0

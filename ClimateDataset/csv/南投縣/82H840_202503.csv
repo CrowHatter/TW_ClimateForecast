@@ -1,2 +1,3 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
 凍頂茶改,82H840,2025-03-26T23:00:00+08:00,晴,-99,-99.0,0.0,0.0,20.4,99,-99.0,-99.0
+凍頂茶改,82H840,2025-03-27T00:00:00+08:00,晴,-99,-99.0,80.0,0.3,20.7,99,-99.0,-99.0

@@ -1,2 +1,3 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
 國一N013K,CAA010,2025-03-26T23:00:00+08:00,多雲,-99,-99.0,60.0,1.3,21.6,91,-99.0,-99.0
+國一N013K,CAA010,2025-03-27T00:00:00+08:00,多雲,-99,-99.0,10.0,0.5,21.5,91,-99.0,-99.0

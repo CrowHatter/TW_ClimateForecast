@@ -1,2 +1,3 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
 永康,467420,2025-03-26T23:00:00+08:00,晴,-99,10.5,170.0,1.7,25.0,81,1007.5,0.0
+永康,467420,2025-03-27T00:00:00+08:00,晴,-99,10.5,160.0,2.2,24.5,86,1007.4,0.0

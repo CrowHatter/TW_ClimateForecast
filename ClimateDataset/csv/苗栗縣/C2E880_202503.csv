@@ -1,2 +1,3 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
 三義,C2E880,2025-03-26T23:00:00+08:00,陰,-99,-99.0,180.0,5.3,20.7,99,-99.0,-99.0
+三義,C2E880,2025-03-27T00:00:00+08:00,多雲,-99,-99.0,170.0,5.4,20.6,100,-99.0,-99.0

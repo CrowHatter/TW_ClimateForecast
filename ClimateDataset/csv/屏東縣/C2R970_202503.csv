@@ -1,2 +1,3 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
 屏科大,C2R970,2025-03-26T23:00:00+08:00,晴,-99,-99.0,10.0,0.4,23.2,78,-99.0,-99.0
+屏科大,C2R970,2025-03-27T00:00:00+08:00,晴,-99,-99.0,150.0,0.6,22.8,80,-99.0,-99.0

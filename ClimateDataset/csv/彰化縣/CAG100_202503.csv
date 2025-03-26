@@ -1,2 +1,3 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
 王功漁港,CAG100,2025-03-26T23:00:00+08:00,晴,-99,-99.0,210.0,5.4,24.7,86,-99.0,-99.0
+王功漁港,CAG100,2025-03-27T00:00:00+08:00,多雲,-99,-99.0,230.0,4.6,24.4,90,-99.0,-99.0

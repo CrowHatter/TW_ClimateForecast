@@ -1,2 +1,3 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
 雲林分場,72K220,2025-03-26T23:00:00+08:00,晴,-99,-99.0,0.0,0.0,22.0,97,-99.0,-99.0
+雲林分場,72K220,2025-03-27T00:00:00+08:00,晴,-99,-99.0,0.0,0.0,22.0,97,-99.0,-99.0

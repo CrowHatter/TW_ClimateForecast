@@ -1,2 +1,3 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
 彭佳嶼,466950,2025-03-26T23:00:00+08:00,晴有靄,3-6,7.9,280.0,4.0,21.7,97,995.8,0.0
+彭佳嶼,466950,2025-03-27T00:00:00+08:00,多雲有靄,3-6,7.9,280.0,4.4,22.1,98,995.6,0.0

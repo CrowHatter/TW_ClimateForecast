@@ -1,2 +1,3 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
 草嶺石壁,C2K610,2025-03-26T23:00:00+08:00,晴,-99,-99.0,360.0,1.5,17.9,73,-99.0,-99.0
+草嶺石壁,C2K610,2025-03-27T00:00:00+08:00,晴,-99,-99.0,360.0,1.3,18.6,69,-99.0,-99.0

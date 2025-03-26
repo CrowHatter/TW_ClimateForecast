@@ -1,2 +1,3 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
 西濱N151K,CAF100,2025-03-26T23:00:00+08:00,陰,16-20,-99.0,200.0,2.3,24.6,87,-99.0,-99.0
+西濱N151K,CAF100,2025-03-27T00:00:00+08:00,陰,16-20,-99.0,200.0,2.8,24.5,86,-99.0,-99.0

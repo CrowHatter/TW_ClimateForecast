@@ -1,2 +1,3 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
 鳳凰,C2I090,2025-03-26T23:00:00+08:00,晴,-99,-99.0,0.0,0.2,20.1,90,-99.0,-99.0
+鳳凰,C2I090,2025-03-27T00:00:00+08:00,晴,-99,-99.0,210.0,0.6,19.7,86,-99.0,-99.0

@@ -1,2 +1,3 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
 蘭嶼,467620,2025-03-26T23:00:00+08:00,有霧,<1,1.1,220.0,9.3,24.5,100,972.2,0.0
+蘭嶼,467620,2025-03-27T00:00:00+08:00,有霧,<1,1.1,220.0,9.5,24.3,100,972.2,0.0

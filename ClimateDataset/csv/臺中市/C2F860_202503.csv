@@ -1,2 +1,3 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
 梨山,C2F860,2025-03-26T23:00:00+08:00,陰,-99,-99.0,140.0,0.5,12.8,29,-99.0,-99.0
+梨山,C2F860,2025-03-27T00:00:00+08:00,陰,-99,-99.0,120.0,0.5,12.2,27,-99.0,-99.0

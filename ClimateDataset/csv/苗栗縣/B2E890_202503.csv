@@ -1,2 +1,3 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
 新竹畜試,B2E890,2025-03-26T23:00:00+08:00,陰,-99,-99.0,220.0,2.9,23.6,88,-99.0,-99.0
+新竹畜試,B2E890,2025-03-27T00:00:00+08:00,多雲,-99,-99.0,220.0,3.3,23.7,86,-99.0,-99.0

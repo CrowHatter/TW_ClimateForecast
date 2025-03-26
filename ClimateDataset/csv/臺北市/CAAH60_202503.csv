@@ -1,2 +1,3 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
 大安森林,CAAH60,2025-03-26T23:00:00+08:00,多雲,-99,-99.0,0.0,0.0,22.3,89,-99.0,-99.0
+大安森林,CAAH60,2025-03-27T00:00:00+08:00,多雲,-99,-99.0,0.0,0.0,22.4,88,-99.0,-99.0

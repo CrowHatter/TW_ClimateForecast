@@ -1,2 +1,3 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
 西濱S280K,CAN110,2025-03-26T23:00:00+08:00,晴,16-20,-99.0,200.0,2.8,25.0,86,-99.0,-99.0
+西濱S280K,CAN110,2025-03-27T00:00:00+08:00,晴,16-20,-99.0,200.0,2.9,25.0,86,-99.0,-99.0

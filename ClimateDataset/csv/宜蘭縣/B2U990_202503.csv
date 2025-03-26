@@ -1,2 +1,3 @@
 StationName,StationId,DateTime,Weather,VisibilityDescription,SunshineDuration,WindDirection,WindSpeed,AirTemperature,RelativeHumidity,AirPressure,UVIndex
 宜蘭畜試,B2U990,2025-03-26T23:00:00+08:00,陰,-99,-99.0,0.0,0.0,22.2,99,-99.0,-99.0
+宜蘭畜試,B2U990,2025-03-27T00:00:00+08:00,陰,-99,-99.0,280.0,1.0,22.4,94,-99.0,-99.0
