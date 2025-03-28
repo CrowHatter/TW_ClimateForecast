@@ -13,4 +13,4 @@ mkdir -p "$LOG_DIR"
 "$VENV_PYTHON" "$PROJECT_DIR/GetDataset_NoHumanStation.py" >> "$LOG_DIR/nohuman.log" 2>&1
 
 # crontab -e
-# 15 * * * * /home/ericweng/Desktop/TW_ClimateForecast/GetDataset.sh
+# 15 * * * * /home/ericweng/Desktop/TW_ClimateForecast/GetDataset.sh >> /home/ericweng/Desktop/TW_ClimateForecast/logs/cron.log 2>&1
