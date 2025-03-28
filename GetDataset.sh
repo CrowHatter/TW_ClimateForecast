@@ -17,4 +17,4 @@ python GetDataset_NoHumanStation.py >> logs/nohuman.log 2>&1
 deactivate
 
 # crontab -e
-# 15 * * * * /home/ericweng/Desktop/TW_ClimateForecast/run_weather_scripts.sh
+# 15 * * * * /home/ericweng/Desktop/TW_ClimateForecast/GetDataset.sh
