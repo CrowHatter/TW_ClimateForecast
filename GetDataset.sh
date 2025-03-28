@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 設定你的專案目錄
-PROJECT_DIR="/home/pi/weather"  # ← 這裡改成你的實際目錄
+PROJECT_DIR="/home/ericweng/Desktop/TW_ClimateForecast"  # ← 這裡改成你的實際目錄
 
 # 進入專案目錄
 cd "$PROJECT_DIR" || exit
@@ -17,4 +17,4 @@ python GetDataset_NoHumanStation.py >> logs/nohuman.log 2>&1
 deactivate
 
 # crontab -e
-# 15 * * * * /{PROJECT_DIR}/run_weather_scripts.sh
+# 15 * * * * /home/ericweng/Desktop/TW_ClimateForecast/run_weather_scripts.sh
