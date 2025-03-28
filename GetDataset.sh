@@ -16,5 +16,5 @@ echo "$(date) - Running as $(whoami)" >> "$LOG_DIR/cron.log"
 # 使用 bash login shell 啟動虛擬環境並執行程式
 /usr/bin/bash -c "source $PROJECT_DIR/.venv/bin/activate && python GetDataset_HumanStation.py >> $LOG_DIR/human.log 2>&1 && python GetDataset_NoHumanStation.py >> $LOG_DIR/nohuman.log 2>&1"
 
-# chmod +x {.sh file path}
+# chmod +x /home/ericweng/Desktop/TW_ClimateForecast/GetDataset.sh
 # 15 * * * * /home/ericweng/Desktop/TW_ClimateForecast/GetDataset.sh >> /home/ericweng/Desktop/TW_ClimateForecast/logs/cron.log 2>&1
