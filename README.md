@@ -26,7 +26,7 @@
 
    - `GetDataset_NoHumanStation.py`：抓取無人自動站 XML 資料
    - `GetDataset_HumanStation.py`：抓取有人觀測站資料並存為 CSV
-   - `GetDataset.bat`：可排程自動執行上述腳本
+   - `GetDataset.bat`、`GetDataset.sh`：可排程自動執行上述腳本
 
 ---
 
