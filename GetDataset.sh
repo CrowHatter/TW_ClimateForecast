@@ -1,20 +1,16 @@
 #!/bin/bash
 
-# 設定你的專案目錄
-PROJECT_DIR="/home/ericweng/Desktop/TW_ClimateForecast"  # ← 這裡改成你的實際目錄
+# 設定你的專案路徑
+PROJECT_DIR="/home/ericweng/Desktop/TW_ClimateForecast"
+VENV_PYTHON="$PROJECT_DIR/.venv/bin/python"
+LOG_DIR="$PROJECT_DIR/logs"
 
-# 進入專案目錄
-cd "$PROJECT_DIR" || exit
+# 確保 logs 資料夾存在
+mkdir -p "$LOG_DIR"
 
-# 啟用虛擬環境
-source .venv/bin/activate
-
-# 執行腳本並將輸出記錄到 log（可省略 >> 部分不記 log）
-python GetDataset_HumanStation.py >> logs/human.log 2>&1
-python GetDataset_NoHumanStation.py >> logs/nohuman.log 2>&1
-
-# 離開虛擬環境
-deactivate
+# 使用虛擬環境中的 Python 執行兩個腳本，並將輸出記錄到 log
+"$VENV_PYTHON" "$PROJECT_DIR/GetDataset_HumanStation.py" >> "$LOG_DIR/human.log" 2>&1
+"$VENV_PYTHON" "$PROJECT_DIR/GetDataset_NoHumanStation.py" >> "$LOG_DIR/nohuman.log" 2>&1
 
 # crontab -e
 # 15 * * * * /home/ericweng/Desktop/TW_ClimateForecast/GetDataset.sh
