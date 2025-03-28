@@ -3,3 +3,4 @@ log.txt
 GetDataset.log
 logs/human.log
 logs/nohuman.log
+logs/cron.log
