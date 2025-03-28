@@ -1,3 +1,5 @@
 config.json
 log.txt
 GetDataset.log
+logs/human.log
+logs/nohuman.log
