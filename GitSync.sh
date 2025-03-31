@@ -17,6 +17,8 @@ git commit -m "Auto commit on $(date '+%Y-%m-%d %H:%M:%S')"
 # 推送到 GitHub
 git push
 
+# git remote set-url origin git@github.com:CrowHatter/TW_ClimateForecast.git
+
 # chmod +x /home/ericweng/Desktop/TW_ClimateForecast/GitSync.sh
 # 30 15 * * * /home/ericweng/Desktop/TW_ClimateForecast/GitSync.sh >> /home/ericweng/Desktop/TW_ClimateForecast/logs/git_sync.log 2>&1
 
