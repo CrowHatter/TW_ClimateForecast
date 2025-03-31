@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 專案路徑
-PROJECT_DIR="/home/ericweng/Desktop/TW_ClimateForecast"
+PROJECT_DIR="/home/ericweng/Desktop/TW_ClimateForecast/"
 
 cd "$PROJECT_DIR" || exit 1
 
