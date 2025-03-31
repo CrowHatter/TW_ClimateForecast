@@ -4,3 +4,4 @@ GetDataset.log
 logs/human.log
 logs/nohuman.log
 logs/cron.log
+logs/git_sync.log
